@@ -1,5 +1,4 @@
-# repo1
-Alt-H1
+Alt-H1 repo1
 Repositori de proves
 
 #### Praticant markdown
