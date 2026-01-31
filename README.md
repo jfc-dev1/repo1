@@ -10,12 +10,12 @@ Aprofito per *practicar* **markdown** mentre també pratico **git i _github_**
 3. item3
     1. subitem3.1
 
-[web CAT](https://wwww.catorroella.cat){:target="_blank"}
+[web CAT](https://wwww.catorroella.cat)
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>Codi HTML</dt>
+  <dd>Codi HTML directament a dins del fitxer Markdown</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Markdown dins HTML</dt>
+  <dd>*No* funciona **molt** bé. Utilitza HTML <em>tags</em>.</dd>
 </dl>
