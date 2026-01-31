@@ -7,11 +7,11 @@ Aprofito per *practicar* **markdown** mentre també pratico **git i _github_**
 
 1. item1
 2. item2
-....* subitem2.1
+    * subitem2.1
 3. item3
-....1. subitem3.1
+    1. subitem3.1
 
-[web CAT](https://wwww.catorroella.cat)
+[web CAT](https://wwww.catorroella.cat){:target="_blank"}
 
 <dl>
   <dt>Definition list</dt>
