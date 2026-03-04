@@ -23,4 +23,7 @@ Aprofito per *practicar* **markdown** mentre també pratico **git i _github_**
 #### Continuo fent proves
 Ara estic fent proves amb gitkraken
 
+També, de passada, provo git flow
+
+
 ## Fi repo1
