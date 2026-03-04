@@ -20,4 +20,7 @@ Aprofito per *practicar* **markdown** mentre també pratico **git i _github_**
   <dd>*No* funciona **molt** bé. Utilitza HTML <em>tags</em>.</dd>
 </dl>
 
+#### Continuo fent proves
+Ara estic fent proves amb gitkraken
+
 ## Fi repo1
